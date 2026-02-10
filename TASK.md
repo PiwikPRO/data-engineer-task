@@ -51,13 +51,13 @@ Use **Docker** to run the solution. You may choose your database for the project
 
 Provide a `docker-compose.yml` (if needed) and clear instructions in a `README.md`.
 
+Use **uv** for Python package management (preferred over pip or poetry).
+
 ### Deliverables
 
-- A link to a **public git repository** with your solution
-- You may fork this one if you want
+- A link to a **public git repository** with your solution, you may fork this one if you want
 - The repository should contain at least one **merged pull request** demonstrating your git workflow
 - A `README.md` with clear instructions on how to run the solution
-- Use **uv** for Python package management (preferred over pip or poetry)
 
 ### Evaluation Criteria
 
